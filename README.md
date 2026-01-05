@@ -20,10 +20,9 @@ Outside of game dev, I explore .NET MAUI, graphical programming, and reverse eng
 ---
 
 ### 🌱 I’m currently learning
+- 🔐 **Defensive security engineering** (building endpoint controls like DNS/hosts-based blocking, least privilege, and secure configuration)
 - 🕹️ **Advanced Unity systems** (AI enemy behavior, physics-based player movement systems, and optimization)
-- 🎨 **C++ Graphics and Shaders**
 - 💻 **.NET MAUI + Blazor**
-- 🧊 **3D Modeling & Texturing** workflows in Blender for retro aesthetics
 
 ---
 

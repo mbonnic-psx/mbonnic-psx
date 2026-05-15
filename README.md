@@ -1,57 +1,118 @@
-## Hi there 👋 I'm Matthew Bonnichsen 
+<div align="center">
 
-**Computer Science Student @ UTSA | Software & Game Developer**
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓                                                              ▓
+▓   M A T T H E W   B O N N I C H S E N                      ▓
+▓   ── software developer ── game dev ── CS @ UTSA ──         ▓
+▓                                                              ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
-### 😄 About Me
-
-I’m passionate about **building interactive experiences**, **developing tools that help people**, and **contributing to the niche community of game development**.
-My projects blend retro-inspired game design with modern development practices, showcasing both creativity and technical skill.
-
-I love working in **Unity** and **Blender** to craft meaningful and fun PS1-style experiences, experimenting with low-poly art, shader effects, and post-processing.
-Outside of game dev, I explore .NET MAUI, graphical programming, and reverse engineering to better understand how software and systems work from the inside out.
-
----
-
-### 🔭 I’m currently working on
-- 🔪 **Killer Eatz** - A PS1-style diner horror game built in Unity.
-- 🌧️ **TRSN6FU** - A PS1-style silent hill narrative horror game built in Unity.
-- 🧠 **Nimbus DNS Blocker** — A Windows app built with .NET MAUI + Blazor for managing distractions and improving focus. 
+</div>
 
 ---
 
-### 🌱 I’m currently learning
-- 🔐 **Defensive security engineering** (building endpoint controls like DNS/hosts-based blocking, least privilege, and secure configuration)
-- 🕹️ **Advanced Unity systems** (AI enemy behavior, physics-based player movement systems, and optimization)
-- 💻 **.NET MAUI + Blazor**
+## `> BOOT SEQUENCE INITIALIZED`
+
+I make things like games that feel like they're trying to corrupt your save file, and tools that quietly remind you the internet can wait.
+
+Right now that means **PS1-style games** in Unity and **Nimbus**, an open source Windows accountability app that helps you take a break from the internet through DNS-based blocking.
 
 ---
 
-### 🧩 Tech Stack  
-- **Languages:** C#, C, C++, Java 
-- **Game Dev:** Unity | Blender | FL Studio | Materialize | Shoebox
-- **App Dev:** .NET MAUI | Blazor | Android Studio  
-- **Tools:** Obsidian | Milanote | Git 
+## `> ACTIVE PROJECTS`
+
+### 🦴 MARROW
+> *PS1-style roguelike zombie shooter — Unity*
+
+Round-based survival with roguelike progression. Low-poly carnage, retro rendering, and the kind of replayability that keeps you up at night.
 
 ---
 
-### 📫 How to reach me:
-- 💼 [LinkedIn](www.linkedin.com/in/matthew-bonnichsen)
-- 🎮 [Itch.io](https://fwitbees.itch.io)
+### 🛡️ NIMBUS DNS BLOCKER
+> *Accountability tool — .NET MAUI + Blazor — Windows — Open Source*
+
+An open source Windows app tackling the psychology of internet addiction through DNS-based blocking. Minimal, effective, keeps you on task.
+
+[→ GitHub](https://github.com/mbonnic-psx/Nimbus-DNS-Blocker)
 
 ---
 
-💬 *“The fastest way to succeed is slowly”*
+### 🏠 MORTGAGE AFFORDABILITY SCENARIO PLANNER
+> *Financial tool — Blazor WebAssembly · Azure Static Web Apps*
 
-<!--
-**mbonnic-psx/mbonnic-psx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Input income, debts, and savings to get a full financial picture, max home price, side-by-side loan comparisons, extra payment analysis, and an interactive amortization schedule. No backend, no login, no friction.
 
-Here are some ideas to get you started:
+[→ Live App](https://ashy-grass-011f4a91e.7.azurestaticapps.net/) · [→ GitHub](https://github.com/mbonnic-psx/Mortgage-Affordability-Scenario-Planner)
 
+---
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## `> STATS`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mbonnic-psx&show_icons=true&bg_color=0d1117&border_color=333&icon_color=FA5C5C&title_color=ffffff&text_color=aaaaaa" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbonnic-psx&layout=compact&bg_color=0d1117&border_color=333&title_color=ffffff&text_color=aaaaaa" />
+</div>
+
+---
+
+## `> CURRENTLY IN THE LAB`
+
+```
+[ ] Defensive security engineering
+    └─ DNS/hosts blocking, least privilege, endpoint hardening
+
+[ ] Advanced Unity systems
+    └─ Enemy AI behavior, physics-based movement, performance optimization
+
+[ ] .NET MAUI + Blazor
+    └─ Native Windows app development
+```
+
+---
+
+## `> TECH STACK`
+
+**Languages**
+`C#` `C` `C++` `Java` `SQL` `TypeScript` `XAML`
+
+**Game Development**
+`Unity` `Blender` `FL Studio` `Materialize` `Shoebox`
+
+**Frameworks & Platforms**
+`.NET / MAUI` `Blazor WebAssembly` `Android Studio` `Tailwind CSS`
+
+**Tooling**
+`Git / GitHub` `Visual Studio` `VS Code` `Claude Code` `Obsidian` `Milanote`
+
+**Data & Config**
+`JSON` `SQL`
+
+**Concepts**
+`AI-assisted development` `Prompt engineering` `Secure coding` `Win32 API` `Debugging` `Unit testing` `CI/CD` `Service layer architecture` `Dependency injection`
+
+---
+
+## `> FIND ME`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/matthew-bonnichsen">
+  <img src="https://img.shields.io/badge/▶%20linkedin-%230d1117.svg?style=for-the-badge&color=0d1117&labelColor=0d1117&logoColor=0A66C2&logo=linkedin" height="40" />
+</a>
+&nbsp;
+<a href="https://fwitbees.itch.io">
+  <img src="https://img.shields.io/badge/▶%20itch.io-%230d1117.svg?style=for-the-badge&color=0d1117&labelColor=0d1117&logoColor=FA5C5C&logo=itch.io" height="40" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"The fastest way to succeed is slowly."*
+
+</div>

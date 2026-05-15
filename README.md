@@ -48,16 +48,6 @@ Input income, debts, and savings to get a full financial picture, max home price
 
 ---
 
-## `> STATS`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbonnic-psx&show_icons=true&bg_color=0d1117&border_color=333&icon_color=FA5C5C&title_color=ffffff&text_color=aaaaaa&cache_seconds=1800" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbonnic-psx&layout=compact&bg_color=0d1117&border_color=333&title_color=ffffff&text_color=aaaaaa&cache_seconds=1800" />
-</div>
-
----
-
 ## `> CURRENTLY IN THE LAB`
 
 ```
